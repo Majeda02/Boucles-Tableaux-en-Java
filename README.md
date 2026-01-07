@@ -10,11 +10,7 @@ La valeur de n sera lue en donnée.
 Écrire un programme qui affiche un triangle isocèle formé d’étoiles. La hauteur du triangle
 (son nombre de lignes) sera fournie en donnée, comme dans l’exemple ci-dessous.
 On s’arrangera pour que la dernière ligne du triangle s’affiche sur le bord gauche de l’écran.
-Exemple de sortie (pour 4 lignes) :
-*
-***
-*****
-*******
+
 <img width="959" height="491" alt="Ex2" src="https://github.com/user-attachments/assets/d09a68b0-007b-43ad-a2a4-3d0cdb0bcbb2" />
 
 ### Exercice 3 
